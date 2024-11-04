@@ -1,0 +1,17 @@
+{
+  "name": "simple-rollup-dart-sass-setup",
+  "version": "1.0.0",
+  "description": "simple-rollup-dart-sass-setup",
+  "main": "index.js",
+  "scripts": {
+   "build": "rollup -c"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "govuk-frontend": "^5.7.1",
+    "rollup": "^4.24.4",
+    "rollup-plugin-styler": "^1.8.0",
+    "sass": "^1.80.6"
+  }
+}
